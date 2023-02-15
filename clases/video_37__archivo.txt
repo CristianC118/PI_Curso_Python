@@ -1,0 +1,3 @@
+Estupendo día para estudiar Python. 
+Hello World.
+Siempre es una buena ocasión para estudiar Python

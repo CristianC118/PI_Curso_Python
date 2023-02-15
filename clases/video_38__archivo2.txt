@@ -1,0 +1,4 @@
+Comienzo del texto
+Esta línea ha sido incluida desde el exterior
+Hello World. 
+Siempre es una buena ocasión para estudiar Python.
