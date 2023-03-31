@@ -4,6 +4,11 @@
   Se utilizan en Python para abreviar para que la sintaxis sea más ligera y para ahorrar tiempo.
 
   En funciones que son complejas no se pueden resumir o transoformar en funciones Lambda (Bucles, Condicional)
+
+  Links: (https://www.geeksforgeeks.org/python-lambda/?ref=lbp)
+        (https://geekflare.com/es/lambda-functions-python/)
+        (https://j2logo.com/python/funciones-lambda-en-python/)
+        (https://ellibrodepython.com/lambda-python)
 """
 
 # Ejemplo Función Normal
